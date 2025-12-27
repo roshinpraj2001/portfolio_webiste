@@ -25,3 +25,7 @@
     color: #084298;
     transform: scale(1.15);
 }
+
+body{
+    color: red;  
+}
